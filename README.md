@@ -65,7 +65,7 @@ Install a specific Python version (replace 3.12.1 with the version you want):
   pyenv install 3.12.1
 ```
 
-hList all the Python versions you have installed using pyenv:
+List all the Python versions you have installed using pyenv:
  
 ```bash
   pyenv versions
